@@ -9,6 +9,7 @@
     <project remote="yoctoproject" name="poky" path="poky" upstream="dunfell" revision="795339092f87672e4f68e4d3bc4cfd0e252d1831" />
     <project remote="yoctoproject" name="meta-virtualization" path="meta-virtualization" upstream="dunfell" revision="180241e0eee718fc52c7b6b25dbd1d845a8047c4" />
     <project remote="yoctoproject" name="meta-selinux" path="meta-selinux" upstream="dunfell" revision="1fba53261bb8d7d3a5dcf238e388811cbb15219b" />
+    <project remote="yoctoproject" name="meta-security" path="meta-security" upstream="dunfell" revision="c62970fda82acf75035243766ecd195243e0f82a" />
     <project remote="openembedded" name="meta-openembedded" path="meta-openembedded" upstream="dunfell" revision="69f94af4d91215e7d4e225bab54bf3bcfee42f1c" />
     <project remote="github" name="aoscloud/meta-aos-vm" path="meta-aos-vm" upstream="main" revision="refs/tags/v3.0.0" />
     <project remote="github" name="aoscloud/meta-aos" path="meta-aos" upstream="main" revision="refs/tags/v6.0.0" />
